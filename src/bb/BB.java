@@ -42,7 +42,7 @@ public class BB {
         v21.insert(v3, 4);
         v22.insert(v3, 1);
         v23.insert(v3, 1);
-        System.out.println(v0);
+        
     }
     
 }
